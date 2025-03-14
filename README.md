@@ -2,7 +2,7 @@
 
 ## 🚀 Digital Design & FPGA Engineer | Embedded Systems & Networking Enthusiast  
 
-👋 Hi, I’m **Ziad Alaa Anis** ([@ziadalaa1](https://github.com/ziadalaa1)), an **FPGA Digital Design & Verification Engineer** passionate about **RTL design, functional verification, and FPGA prototyping**. I specialize in **high-performance digital systems**, focusing on **synthesis, timing analysis, and verification methodologies**.  
+👋 Hi, I’m **Ziad Alaa Anis** ([@ziad-1544](https://github.com/ziad-1544)), an **FPGA Digital Design & Verification Engineer** passionate about **RTL design, functional verification, and FPGA prototyping**. I specialize in **high-performance digital systems**, focusing on **synthesis, timing analysis, and verification methodologies**.  
 
 ### ⚡ Digital Design & FPGA Expertise  
 - 🎛 **RTL Design & FPGA Prototyping**: Strong grasp of **Digital Design, Synthesis, and Netlist Generation**.  
