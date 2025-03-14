@@ -1,7 +1,20 @@
-# 💫 About Me:
-🚀 Digital Design & FPGA Engineer | Embedded Systems & Networking Enthusiast<br>👋 Hi, I’m Ziad Alaa Anis (@Ziad-1544), an FPGA Digital Design & Verification Engineer passionate about RTL design, functional verification, and FPGA prototyping. I specialize in high-performance digital systems, focusing on synthesis, timing analysis, and verification methodologies.<br><br>⚡ Digital Design & FPGA Expertise<br>🎛 RTL Design & FPGA Prototyping: Strong grasp of Digital Design, Synthesis, and Netlist Generation.<br>💾 Hardware Description Languages: Skilled in Verilog & SystemVerilog, with expertise in Assertion-Based Verification (SVA) and Functional Coverage.<br>🏗 Design & Implementation: Developed DSP Speranta 6 and designed an SPI module with a single-port RAM.<br>🛠 FPGA Toolchain & Verification: Proficient in Siemens Questa Sim/Formal, Vivado, and UVM-Based Verification.<br>⏳ Timing & Debugging: Experienced in CDC, RDC, Static Timing Analysis (STA), and FPGA partitioning.<br>🔋 Low Power & Optimization: Familiar with low power design techniques for efficient FPGA implementations.<br>🔍 Additional Technical Skills<br>🔗 Embedded Systems: Developed a Clinic Management System using Embedded C, implementing linked lists for efficient data handling.<br>🌐 Networking & Systems: Led a network workshop graduation project, configuring routers, switches, DHCP servers, and subnetting for a complete company setup.<br>🎮 Git & Version Control: Conducted a version control session at Semicolon Club, creating an interactive Git-based treasure hunt.<br>🚗 Hardware Projects: Built an RC car with obstacle avoidance, integrating sensors and microcontrollers.
+# 💡 About Me  
+🚀 **FPGA Digital Design & Verification Engineer** with expertise in **RTL design, functional verification, and FPGA prototyping**. Passionate about **high-performance digital systems, synthesis, timing analysis, and verification methodologies**.  
 
-> 👥 I’m looking to collaborate on **more Digital Design and Verification Projects** 🔭
+### ⚡ Key Skills  
+- 🎛 **Digital Design & FPGA**: RTL coding, synthesis, netlist generation, and FPGA partitioning.  
+- 💾 **Verilog & SystemVerilog**: Expertise in **Assertion-Based Verification (SVA)** and **Functional Coverage**.  
+- 🏗 **Design & Implementation**: Developed **DSP Speranta 6** and **SPI with single-port RAM**.  
+- 🛠 **Verification & Toolchain**: Proficient in **Siemens Questa Sim/Formal, Vivado, and UVM-Based Verification**.  
+- ⏳ **Timing & Debugging**: CDC, RDC, **Static Timing Analysis (STA)**, and low-power design.  
+
+### 🔍 Additional Experience  
+- 🔗 **Embedded Systems**: Built a **Clinic Management System** using **Embedded C**.  
+- 🌐 **Networking**: Led a **network setup project**, configuring routers, switches, and DHCP.  
+- 🎮 **Git & Version Control**: Conducted a **Git workshop** at **Semicolon Club**.  
+- 🚗 **Hardware Projects**: Developed an **RC car with obstacle avoidance**.  
+
+📫 **Let's Connect!** Check out my projects and feel free to reach out! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-kassem-887aa1283) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ziadkassem6948) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziad.kassem.eng@gmail.com) 
