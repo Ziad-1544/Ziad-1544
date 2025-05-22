@@ -1,20 +1,25 @@
 <img src="GIF1.gif" height="300" width="1000" />
 
 # 💡 About Me  
-🚀 **FPGA Digital Design & Verification Engineer** with expertise in **RTL design, functional verification, and FPGA prototyping**. Passionate about **high-performance digital systems, synthesis, timing analysis, and verification methodologies**.  
+🚀 I'm **Ziad Alaa**, a **Digital Design & Verification Engineer** with a passion for **FPGA development**, **RTL design**, and **functional verification**. I specialize in creating high-performance digital systems, emphasizing synthesis, timing analysis, and robust verification methodologies.
 
-### ⚡ Key Skills  
-- 🎛 **Digital Design & FPGA**: RTL coding, synthesis, netlist generation, and FPGA partitioning.  
-- 💾 **Verilog & SystemVerilog**: Expertise in **Assertion-Based Verification (SVA)** and **Functional Coverage**.  
-- 🏗 **Design & Implementation**: Developed **DSP Speranta 6** and **SPI with single-port RAM**.  
-- 🛠 **Verification & Toolchain**: Proficient in **Siemens Questa Sim/Formal, Vivado, and UVM-Based Verification**.  
-- ⏳ **Timing & Debugging**: CDC, RDC, **Static Timing Analysis (STA)**, and low-power design.  
+---
 
-### 🔍 Additional Experience  
-- 🔗 **Embedded Systems**: Built a **Clinic Management System** using **Embedded C**.  
-- 🌐 **Networking**: Led a **network setup project**, configuring routers, switches, and DHCP.  
-- 🎮 **Git & Version Control**: Conducted a **Git workshop** at **Semicolon Club**.  
-- 🚗 **Hardware Projects**: Developed an **RC car with obstacle avoidance**.  
+### ⚡ Core Competencies  
+- 🎛 **FPGA & RTL Design**: Proficient in RTL coding, synthesis, netlist generation, and FPGA partitioning.  
+- 💾 **Verilog & SystemVerilog**: Expertise in Assertion-Based Verification (SVA) and Functional Coverage.  
+- 🛠 **Verification & Toolchain**: Experienced with Siemens Questa Sim/Formal, Vivado, and UVM-Based Verification.  
+- ⏱ **Timing & Debugging**: Skilled in CDC, RDC, Static Timing Analysis (STA), and low-power design techniques.
+
+---
+
+### 🔍 Additional Experience
+
+- Developed a Clinic Management System in Embedded C using linked lists for data handling.  
+- Led a full company network setup: router and switch configurations, DHCP, and subnetting.  
+- Ran a Git workshop at Semicolon Club, teaching practical version control through hands-on exercises.  
+- Built an RC car with obstacle avoidance using sensors and real-time control logic.
+ 
 
 📫 **Let's Connect!** Check out my projects and feel free to reach out! 🚀
 
