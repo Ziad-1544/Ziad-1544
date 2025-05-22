@@ -1,3 +1,5 @@
+<img src="GIF1.gif" height="300" width="1000" />
+
 # 💡 About Me  
 🚀 **FPGA Digital Design & Verification Engineer** with expertise in **RTL design, functional verification, and FPGA prototyping**. Passionate about **high-performance digital systems, synthesis, timing analysis, and verification methodologies**.  
 
